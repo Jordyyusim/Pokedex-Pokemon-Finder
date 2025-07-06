@@ -33,27 +33,33 @@ A web-based Pokédex app built with **Django** and integrated with the public **
 
 ## 📦 Installation
 
-```bash
-1. Clone the repository
-git clone https://github.com/jordyyusim/pokedex-pokemon-finder.git
-cd pokedex-pokemon-finder
+1. **Clone the repository**:
 
+    ```bash
+    git clone https://github.com/jordyyusim/pokedex-pokemon-finder.git
+    cd pokedex-pokemon-finder
+    ```
 
-2. create new environment
-python -m venv yourenv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+2. **Create a virtual environment**:
 
+    ```bash
+    python -m venv yourenv
+    source yourenv/bin/activate      # On Windows: yourenv\Scripts\activate
+    ```
 
-3. install dependencies
-pip install -r requirements.txt
+3. **Install the dependencies**:
 
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-4. run the development server
-python manage.py runserver
+4. **Run the development server**:
 
+    ```bash
+    python manage.py runserver
+    ```
 
-5. Open `http://127.0.0.1:8000/` in your browser
-```
+5. Open [`http://127.0.0.1:8000/`](http://127.0.0.1:8000/) in your browser 🚀
 
 ---
 
