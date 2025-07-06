@@ -25,9 +25,9 @@ A web-based Pokédex app built with **Django** and integrated with the public **
 
 ## 📸 Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Resultpage](screenshots/resultpage.png)
-![Error](screenshots/error.png)
+![Homepage](pokedex-pokemon-finder/screenshots/homepage.png)
+![Resultpage](pokedex-pokemon-finder/screenshots/resultpage.png)
+![Error](pokedex-pokemon-finder/screenshots/error.png)
 
 ---
 
