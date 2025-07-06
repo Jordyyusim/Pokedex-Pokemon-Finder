@@ -59,7 +59,10 @@ A web-based Pokédex app built with **Django** and integrated with the public **
     python manage.py runserver
     ```
 
-5. Open [`http://127.0.0.1:8000/`](http://127.0.0.1:8000/) in your browser 🚀
+5.  **Run the app**:
+    ```bash
+    Open [`http://127.0.0.1:8000/`](http://127.0.0.1:8000/) in your browser
+    ```
 
 ---
 
