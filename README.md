@@ -54,6 +54,8 @@ python manage.py runserver
 
 5. Open `http://127.0.0.1:8000/` in your browser
 
+---
+
 ## 📬 Socials
 [GitHub](https://github.com/jordyyusim) &nbsp;|&nbsp;
 [LinkedIn](https://linkedin.com/in/jordyyusim) &nbsp;|&nbsp;
