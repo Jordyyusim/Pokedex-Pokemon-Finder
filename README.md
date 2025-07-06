@@ -34,7 +34,6 @@ A web-based Pokédex app built with **Django** and integrated with the public **
 ## 📦 Installation
 
 1. Clone the repository
-```bash
 git clone https://github.com/jordyyusim/pokedex-pokemon-finder.git
 cd pokedex-pokemon-finder
 
